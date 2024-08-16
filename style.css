@@ -1,13 +1,13 @@
 :root{
-    --cor-fundo: #01080E;
-    --cor-principal: #0B0D20 ;
-    --cor-secundaria: #212333;
-    --cor-destaque: #2BDEFD;
+    --cor-fundo: #c15788;
+    --cor-principal: #ff82e7 ;
+    --cor-secundaria: #f2dcf6;
+    --cor-destaque: #7c406e;
     --cor-texto: #D7F9FF;
 }
 
 body{
-    background-color: var(--cor-fundo);
+    background-image: url(placar-do-jogo.png.1200x0_q70_crop-top\ \(1\).png) ;
     background-repeat: no-repeat;
     background-size: cover;
     color: var(--cor-texto);
